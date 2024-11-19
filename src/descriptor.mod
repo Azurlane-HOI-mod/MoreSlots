@@ -8,5 +8,5 @@ dependencies={
 	"AzurLane碧蓝航线：塞壬之灾"
 }
 name="碧蓝航线附属：更多槽位"
-supported_version="1.14.4"
+supported_version="1.15.*"
 remote_file_id="3014768049"
